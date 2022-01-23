@@ -1,0 +1,12 @@
+## SEGGER Embedded Studio and JLink ##
+## nRF52840
+application/pca10056/s132/ses/Output
+application/pca10056/s132/ses/ble_app_thermo_pca10040_s132.emSession
+application/pca10056/s132/ses/ble_app_thermo_pca10040_s132.jlink
+application/pca10056/s132/ses/ble_app_thermo_pca10040_s132.jlink
+
+## nRF52832
+application/pca10040/s132/ses/Output
+application/pca10040/s132/ses/ble_app_thermo_pca10056_s140.emSession
+application/pca10040/s132/ses/ble_app_thermo_pca10056_s140.jlink
+application/pca10040/s132/ses/ble_app_thermo_pca10056_s140.jlink

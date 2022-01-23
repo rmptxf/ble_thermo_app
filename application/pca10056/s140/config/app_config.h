@@ -1,0 +1,34 @@
+#ifndef APP_CONFIG_H
+#define APP_CONFIG_H
+// <<< Use Configuration Wizard in Context Menu >>>\n
+
+#define SAADC_SAMPLING_TIMER_INSTANCE  1
+#define NRF_SDH_BLE_VS_UUID_COUNT 1
+#define BLE_BAS_ENABLED 1
+
+#define NRFX_SAADC_ENABLED 1
+#define SAADC_ENABLED 1
+
+#define NRFX_PPI_ENABLED 1
+#define PPI_ENABLED 1
+
+#define TIMER_ENABLED 1
+#define NRFX_TIMER_ENABLED 1
+
+#define TIMER1_ENABLED 1
+#define NRFX_TIMER1_ENABLED 1
+
+#define TIMER2_ENABLED 1
+#define NRFX_TIMER2_ENABLED 1
+
+#define WS2812B_PWM_INSTANCE 0
+#define NRFX_PWM_ENABLED 1
+#define NRFX_PWM0_ENABLED 1
+#define PWM_ENABLED 1
+#define PWM0_ENABLED 1
+#define APP_PWM_ENABLED 1
+
+#define NRF_LOG_BACKEND_RTT_ENABLED 1
+#define NRF_LOG_BACKEND_UART_ENABLED 0
+
+#endif //APP_CONFIG_H
